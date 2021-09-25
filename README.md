@@ -1,6 +1,11 @@
 # python-web2py
 
-Random Number
+HelloWorld
+Display a simple message: https://adrianakopf.pythonanywhere.com/firstapp/basics/helloworld
 
-Verify if the random number is prime or not.
+Request Vars. Add two numbers and display a popup message: 
+https://adrianakopf.pythonanywhere.com/firstapp/basics/request_vars
+
+Random Number & Prime
+Verify if the random number is prime or not: 
 https://adrianakopf.pythonanywhere.com/firstapp/basics/random_number
