@@ -4,7 +4,7 @@ Front End Web Development with Python
 HelloWorld.
 Display a simple message: https://adrianakopf.pythonanywhere.com/firstapp/basics/helloworld
 
-Request Vars. Add two numbers and display a popup message: 
+Request Vars. Add two numbers, display the result on the page and on a pop up message: 
 https://adrianakopf.pythonanywhere.com/firstapp/basics/request_vars
 
 Random Number & Prime.
