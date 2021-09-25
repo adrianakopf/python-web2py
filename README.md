@@ -1,4 +1,4 @@
-Front End Web Development with Python
+Full Stack Web Development with Python
 # python-web2py
 
 HelloWorld.
