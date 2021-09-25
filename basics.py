@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# try something like
 
 #Read and load the two number from web page, then calculate and show the result to the user in the web page.
 #To view the results, create a 'View' with the same name of the method in this case: "request_vars". Test the link on the browser
