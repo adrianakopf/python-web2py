@@ -42,7 +42,3 @@ def random_number():
 def helloworld():
     msg = "Hello from the Controller!"
     return locals()
-
-
-def index():
-    return dict(message="hello from basics.py")
